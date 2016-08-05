@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic_Tac_Toe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_two_player">two_player</string>
+    <string name="title_activity_infinite_tic_tac_toe">Infinite_tic_tac_toe</string>
+</resources>
